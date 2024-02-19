@@ -2,4 +2,4 @@
 
 set -euo pipefail
 
-sudo apt install bat
+sudo apt install bat -y
