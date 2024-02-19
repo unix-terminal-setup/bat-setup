@@ -9,3 +9,5 @@ Sets up bat terminal utility, a cat clone with syntax highlighting and Git integ
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/linux-terminal-setup/bat-setup/main/setup.sh | bash
 ```
+
+It includes an alias to your `.bashrc` so that you can use `bat` instead of `batcat`.
